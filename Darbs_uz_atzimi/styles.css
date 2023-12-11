@@ -1,0 +1,71 @@
+
+.wrapper1{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgb(206, 150, 188) 0%, rgb(206, 150, 188) 20%);
+    min-height: 100vh;
+    margin-left: 2%;
+    margin-right: 7%;
+}
+.wrapper2{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom,rgb(199, 116, 195) 20%, rgb(199, 116, 195) 40%);
+    min-height: 100vh;
+ 
+}
+.wrapper3{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom,rgb(109, 62, 110) 40%, rgb(109, 62, 110) 60%);
+    min-height: 100vh;
+   
+}
+.wrapper4{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom,rgb(182, 70, 163) 60%, rgb(182, 70, 163) 80%);
+    min-height: 100vh;
+   
+}
+.wrapper5{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom,rgb(192, 158, 188) 80%, rgb(192, 158, 188) 100%);
+    min-height: 100vh;
+    margin-bottom: 5%;
+
+}
+.centret-virsrakstu {
+    
+    margin-left: 45%;
+    margin-top: 5%;
+    margin-right: 45%
+   
+}
+.saturs{
+    width: 70%;
+    margin-left: 15%;
+    
+}
+.kolonas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Teksts{
+    font-family: 'Courgette', cursive;
+}
+
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.carousel-item{
+    margin-left: 25%;
+    margin-top: 5%;
+   margin-right: 25%;
+}
+.teksts{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
